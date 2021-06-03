@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevv and true nevves from Ireland: relating these particulars following. 1 The meeting of 6. or 700 abbots, monks, fryars and priests, in the west part of Ireland, at least three weeks, with fasts and prayers three days in a week after their popish manner. 2 Another meeting at Westmeath, for the plotting of the confusion of the Protestants in that kingdome. 3 Their divelish plot against Dublin and divers other places. 4 The great overthrow to 600 English neare Tredath, by the mistake of the word of command. 5 Severall overthrows given to the rebels by Sir Charles Coote. 6 How Sir Henry Titchbourne slew 1000 of the rebels, tooke some great commanders, and at least 30000 pound in mony, jewels and plate. VVith divers other particulars to the honour of the English, the downfall of the rebels, and glory of our nation. Incouraging all brave spirits to performe the like service, for the honor of their King and countrey.</title>
+            <author>Hallowes, John.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86989</idno><idno type="EEBO-CITATION">99858953</idno>
+  <idno type="VID">111013</idno>
+  <idno type="EEBO-PROQUEST">2240893252</idno>
+  
+            <idno type="STC">Wing H456B</idno>
+            <idno type="STC">Thomason E144_2</idno>
+            <idno type="STC">ESTC R11191</idno>
+            <idno type="PROQUEST">99858953</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99858953e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111013)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevv and true nevves from Ireland: relating these particulars following. 1 The meeting of 6. or 700 abbots, monks, fryars and priests, in the west part of Ireland, at least three weeks, with fasts and prayers three days in a week after their popish manner. 2 Another meeting at Westmeath, for the plotting of the confusion of the Protestants in that kingdome. 3 Their divelish plot against Dublin and divers other places. 4 The great overthrow to 600 English neare Tredath, by the mistake of the word of command. 5 Severall overthrows given to the rebels by Sir Charles Coote. 6 How Sir Henry Titchbourne slew 1000 of the rebels, tooke some great commanders, and at least 30000 pound in mony, jewels and plate. VVith divers other particulars to the honour of the English, the downfall of the rebels, and glory of our nation. Incouraging all brave spirits to performe the like service, for the honor of their King and countrey.</title>
+                  <author>Hallowes, John.</author>
+               </titleStmt>
+               <extent>[2], 9 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coules,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Iohn Hallowes.</note>
+                  <note>At head of title: Aprill the 22th.</note>
+                  <note>Page six is misnumbered nine.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111013:1"/>
+            <pb facs="tcp:111013:1"/>
+            <p>Aprill the 22<seg rend="sup">th.</seg>
+               <hi>Nevv and true Nevves from IRELAND: Relating these particulars following.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1</hi> The meeting of <hi>6</hi> or <hi>700</hi> Abbots, Monks, Fryars and Priests, in the West part of <hi>Ireland,</hi> at least three weeks, with fasts and prayers three days in a week after their Popish manner.</item>
+               <item>
+                  <hi>2</hi> Another meeting at West meath, for the plotting of the confusion of the Protestants in that Kingdome.</item>
+               <item>
+                  <hi>3</hi> Their divelish plot against <hi>Dublin</hi> and divers other places.</item>
+               <item>
+                  <hi>4</hi> The great overthrow to <hi>600</hi> English neare <hi>Tredath,</hi> by the mistake of the word of Command.</item>
+               <item>
+                  <hi>5</hi> Severall overthrows given to the Rebels by Sir <hi>Charles Coote.</hi>
+               </item>
+               <item>
+                  <hi>6</hi> How Sir <hi>Henry Titchbourne</hi> slew <hi>1000</hi> of the Rebels, tooke some great Commanders, and at least <hi>30000</hi> pound in mony, jewels and plate.</item>
+            </list>
+            <p>
+               <hi>VVith divers other particulars to the honour of the</hi> English, <hi>the downfall of the Re<g ref="char:EOLhyphen"/>bels, and glory of our Nation: Incouraging all brave Spirits to performe the like service, for the honor of their King and Countrey.</hi>
+            </p>
+            <p>
+               <hi>LONDON, Printed for</hi> F. Coules. <hi>1642.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="entry">
+            <pb facs="tcp:111013:2"/>
+            <pb n="1" facs="tcp:111013:2"/>
+            <head>DVBLIN, The 20 of <hi>March,</hi> 1641.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N tender of my duty I writ a former Letter, by a friend, but hearing of the miscariage that he was driven into <hi>White-haven,</hi> and there remaines; I thought good to expresse the wonderfull delive<g ref="char:EOLhyphen"/>rance that God hath wrought for us. <hi>viz.</hi>
+            </p>
+            <p>The beginning of the last yeare, the Supporters if not Papists and Papish Bishops, with their adherents, were questioned and imprisoned; some in <hi>England:</hi> Whereupon, it was observed in the West part of this Kingdom, the concourse and meeting of 6 or 700 Abbots, Monks, Friars, Priests, and there they held Councell in one place above three weeks together, with Prayers said and Fasts, kept three dayes in every weeke, whereas is now partly apparent; And at another meeting they had some 50 miles from us, in the County of <hi>West-meath;</hi> was the plotting of the confusion of all the Protestants in this King<g ref="char:EOLhyphen"/>dome, which comming to the very day that that bloudy Massacre should have been done in <hi>Dublin,</hi> it pleased God to make one of them (that should have been an Actor) to be the revealer of this divelish plot, which was no sooner discovered, but both they in the Town, and wee in the Suburbs, were commanded to Arme with what weapons we could. (This was the 23 of <hi>October,</hi> 1641) And the chiefest of the Traytors that were about this Towne, were taken, and now are in prison: Then every man began to
+<pb n="2" facs="tcp:111013:3"/> stand to his Armes, and we watcht every man his third night. All men being amazed, not knowing who was his Friend, nor who his Foe: And the 26 of <hi>October,</hi> News came how the Rebels were up in the <hi>North</hi> in the County of <hi>Farmannogh, Avaw, Man<g ref="char:EOLhyphen"/>noghan, Tirone, Armagh,</hi> and Countie of <hi>Downe,</hi> where many <hi>English</hi> men, Women and Children were slaine, and others driven like Sheep in flocks, by the Rebels, into rivers, where they were drowned, and those that escaped with their lives were turned na<g ref="char:EOLhyphen"/>ked, stiled by the Rebels, <hi>English Dogs:</hi> Bidding them get home, but not to go to <hi>Dublin,</hi> for that was for them: For then did not they of the <hi>North</hi> heare of the discovery here, whereupon some valiant men (being then in Town) Souldiers were made ready, and a Regiment commanded by Sir <hi>Henry Tichburne,</hi> a true hear<g ref="char:EOLhyphen"/>ted and brave Commander, were sent to <hi>Tradach,</hi> to keepe that Town from the Rebels: Then the Lords and Gentlemen of the Pale (which were called <hi>The old English,</hi> and both they and their predecessors were ever true to the Crown of <hi>England,</hi> in <hi>Tirones</hi> wars:) They all came to Town and bound their Lives and Lands to stand for His Majesty, whereupon Armes with powder, match and bullets was given them, and they had above 1500 Armes de<g ref="char:EOLhyphen"/>livered them.</p>
+            <p>After that, there was another Regiment raised, and Sir <hi>Henry Tichburne</hi> wanting men, sent for more hither; upon which 600 of that Regiment were to go thither under Command of Sergeant Major <hi>Roper,</hi> and marching along within 3 miles of <hi>Tradath,</hi> the Rebels met them, and our men went on with a resolution to give Battle, and being brought into a body, and every man ready to give fire, a most unfortunate word of Command being given, and the Souldiers being amazed, the enemy tooke that advantage and slew most of our 600 men, and got their Armes with abundance of other Ammunition, and 1000. or 1200 l. in money, which did so incourage the Rebells, and the Lords and Gentlemen of the Pale that tooke Armes for the King and were all Rebels in their hearts, that they all joynd together, and layd Siege with a great Army against <hi>Tradath,</hi> being 3 and betwixt that and 4000 strong, and our Army there never above 1800 Foote and Horse.</p>
+            <p>And at that time when the 600 men were lost, was the other halfe of the Regiment gone into the County of <hi>Whicklow,</hi> under command of one Sir <hi>Charles Coote</hi> (who under God hath saved
+<pb n="3" facs="tcp:111013:3"/> this City) where the enemy came in a full body against him, and shot apace, not bullets but sliggs of Iron, the length of a mans midle-finger, but to God be the praise, though he was not halfe to strong, yet by his undanted courage, and leading his Souldiers where sliggsflew apace, he got the Battle, killing many and other that he tooke and hanged presently, and got a ferkin of powder without the losse of any of his Souldiers, save one which was run<g ref="char:EOLhyphen"/>ning to take part with the Rebels, and Sir <hi>Charles</hi> shot himselfe; then was Sir <hi>Charles</hi> resolved to go on; but this sad disaster com<g ref="char:EOLhyphen"/>ming to loose the 600 men and Armes, he was commanded home, and great feare the Citty would have been taken before his return, the Inhabitants Papists being 3 for one Protestant, but Sir <hi>Charles</hi> comming home was made Governor of the City, and news came that the Rebels were encamping at certain Towns about 2 miles from this City, and they would ere long make an assault upon us; whereupon infinite numbers fled for <hi>England,</hi> the rest that stayed were Souldiers for present, which Sir <hi>Charles</hi> made use of: And in <hi>Novem.</hi> the Rebels laying siege hereabout, Sir <hi>Charles</hi> would in the dark and dead nights march with 4 or 500 men out and came upon the Rebels, and gave them severall overthrows; and in that month and in <hi>Decem.</hi> burned their Towns hereabouts, and such as could be taken were executed, by this never too much spoken of old, yet Valiant Sir <hi>Charles Coote,</hi> who then did so daunt the Re<g ref="char:EOLhyphen"/>bels, that we were exceedingly incouraged, &amp; the Papists at home much discouraged, in whose houses upon search were found a num<g ref="char:EOLhyphen"/>ber of Armes, and all taken from them: Then news came that five miles from hence the Rebels were 3 or 4000 strong in one Town, against whom went one Collonell <hi>Trafford</hi> a Scottishman, and a brave Commander, with 1200 men against them and some Horse, amongst whom I was one, where we marcht in the night, and to<g ref="char:EOLhyphen"/>wards day did appeare many men with light matches in their hands comming against us, and as our Scouts reported, had beset us round, then ordering our selves in battle array, the Colonel he bade our troop of Horse keep the reare, and said for all their light feet the Rebels had, hee would shew them a Scotch tricke, but the Rogues seeing our resolution to fight fled, and some were taken &amp; hanged, and we burned their Town and returned to <hi>Dublin</hi> whi<g ref="char:EOLhyphen"/>ther worse news came, that <hi>Tradath</hi> would be lost, the Rebels be<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:111013:4"/> 3 or 4000 strong about it and lying under the wals, presum<g ref="char:EOLhyphen"/>ing every night to take it, which put our Souldiers in <hi>December</hi> to march every night, and 1000 could not go there by land, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the ri<g ref="char:EOLhyphen"/>ver was chained up, most of the Inhabitants there were Rebels, and no reliefe could come to Sir <hi>Henry Tachburn,</hi> which again daunted us, &amp; incouraged the Rebels, that they came to our towns (almost) but God, though in Iustice he might have cut us off, yet in mercy sent us a joyfull New-yeares-gift from <hi>England</hi> of 1500 men commanded by Sir <hi>Simon Harcot,</hi> whose landing caused many a rejoycing subject, and disanimated Rebels, that were spe<g ref="char:EOLhyphen"/>ctators of the landing of these welcom men, who have since shew'd their duty to God, their fidelity to their Prince, and their love and affection to us in distresse, and so much discouraged the enemy that he durst never stand battle since; yet stil working by divelish plots to bring about his wicked intention.</p>
+            <p>And now we have received assistance, both of Horse and Foot, who will suffer never a Priest to be here, no Masse to be said: They have been upon service and cleared the way to <hi>Tradath,</hi> both by Sea and Land. Some of the chiefe Commanders of the Rebels are come in and ly in safe places, and being 22 they have beene on the rack, but what they confesse, I yet do not know: I hope we shall have satisfaction of the Rebels, for the sheding of many thousands of Innocents and Protestants bloud, as they have done: Wee are told the Papists shall be all pillaged and turned out of the City, we have another Army going out within few dayes, God prosper thē; this is the generall at this present.</p>
+            <p>And to expresse the particular grievances and losses, I am sorry to tell you that, since the 23 of <hi>October</hi> last, little trading hath been, all debts formerly trusted lost, for the debtors are either Re<g ref="char:EOLhyphen"/>bels or else have taken the estates of those that were able formerly to pay, and now some of them that lived in good fashion, relieving the poore dayly, are now glad if they can get a meales meat, it would make your heart to bleed, if you had k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own some that I know, that were men of 3, 4 and 500 a yeare &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow glad to traile a pike for 3 s. 6 d. a week. Fitter objects for Charity, than deb<g ref="char:EOLhyphen"/>tors to pay us, that are indebted to others, and truth is, divers Londoners are come over, but they aske never a peny of Prote<g ref="char:EOLhyphen"/>stants, but of the Papists they know and see what losses wee have
+<pb n="5" facs="tcp:111013:4"/> suffered, and what a dead winter, expecting the Rebels comming every night, and how by watching in the cold streets, to pre<g ref="char:EOLhyphen"/>serve our lives, many have dyed, and many have since been long sicke, but I hope the ransaking of the Papists here, will a little more cheare us up, to save as much for you as I could.</p>
+         </div>
+         <div type="entry">
+            <head>Dublin the <hi>6</hi> day of Aprill.</head>
+            <p>THis day being the 24. Captaine <hi>Mackmoghan</hi> came upon the Racke, where he confest there was never a member of the House of Commons, that was a Papist, but he knew of this Plot at their assembly the last Easter, you sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll heare more by the next.</p>
+            <p>I writ to you by <hi>Abraham Taylors</hi> man of <hi>Rachdall,</hi> since which wee have lost a most valiant Commander, who was sent over with the 15 hundred that came here at New-yeares tyde, by your <hi>Parliament.</hi> He went with 200, Horse, and beset a Castle some 7. miles hence, Sir <hi>Simon Harcourt</hi> (wherein were multitudes of Rebels) he percei<g ref="char:EOLhyphen"/>ving it, sent for more, and from hence, so when eight hundred foot was sent, with two hundred horse came to him, with two peeces of Ordinance, which Sir <hi>Simon</hi> commanded to be planted within halfe a musket shot of the Castle, and he going to see whether the peeces were right leveld, was shot by a Rebell from the Castle, and he two daies after dyed: but no sooner was the Ordinance once shot off but the Rebels threw down their Armes, desiring quarter, but as a Gentleman was going to receive the Castle from them, he was shot, which so incensed the Army, that by violence they entred the Castle, with the
+<pb n="9" facs="tcp:111013:5"/> losse of six or seven, and put man woman and child therein to the sword 200. and odd persons; but God be thanked, better newes from <hi>Treddath,</hi> for thither now 3 horsemen may goe by land: from whence Sir <hi>Henry Tichburne</hi> marcht with a thousand foot, and some horse to the Rebels campe, which was at <hi>Dundalke,</hi> where he slew 1000. of the Rebels, &amp; got their Ordinance and tooke <hi>Dundalke</hi> and one Collonell <hi>Barnwell,</hi> with two Commanders more, and got worth 30. thousand pounds in Plate, mony, and o<g ref="char:EOLhyphen"/>ther goods, and are there still, and lost but three men.</p>
+            <p>From hence went eight hundred horse and three thou<g ref="char:EOLhyphen"/>sand five hundred foot on Saturday last, as yet nothing have they done, for the Rebels run away, and yesterday came and burned English houses within 3 miles of us, and ere night came and stole away cattle from the Townes end, and have threatned to come and burne the Suburbs if they durst, but I hope God will defend us; remember my duty to my Godfather, and to my Vncle, and shew him this, unto whom remember him that will remaine</p>
+            <closer>
+               <signed>Your most affectionate brother, <hi>Iohn Hallowes.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111013:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
